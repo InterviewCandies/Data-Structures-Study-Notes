@@ -2,9 +2,9 @@
 
 ## What is an array?
 
-- Contigous chunks of memory
+- Contiguous chunks of memory
 - Consisting of equal-size elements
-- Indexed by contigous integers
+- Indexed by contiguous integers
 - Constant time access
 
 ## What is dynamic array?
