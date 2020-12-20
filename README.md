@@ -1,1 +1,3 @@
-# Data-Structures-Study-Notes
+# Data Structures with study notes
+
+- [x] Array
