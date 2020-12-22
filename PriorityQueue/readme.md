@@ -22,9 +22,9 @@ binary tree iss complete of all its levels are filled except possibly the last o
 
 ## Advantages of heap
 
-    * Fast : All operations work in time O(logn)
-    * Space effiecient: Can store an anrray of priority
-    * Easy to implement
+- Fast : All operations work in time O(logn)
+- Space effiecient: Can store an anrray of priority
+- Easy to implement
 
 ## In-place heap sort
 
