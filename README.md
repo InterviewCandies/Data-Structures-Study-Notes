@@ -1,3 +1,4 @@
 # Data Structures with study notes
 
-- [x] Array
+- [x] [Array](./DynamicArray)
+- [x] [Heap / Priority queue](./PriorityQueue)
