@@ -8,8 +8,8 @@ A linked list is a linear data structures, in which elements are **not stored at
 
 ### Definition
 
-A singly linked list consists of nodes where each node contains a data field and a reference to the next node in the list.
-![sll](../img/list.png)
+A singly linked list consists of nodes where each node contains a data field and a reference to the next node in the list.\
+![sll](../../img/sll.png)
 
 ### Operations
 
