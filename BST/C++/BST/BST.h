@@ -130,6 +130,7 @@ private:
 	}
 
 	BNode<T>* DeleteHelper(BNode<T>* root, T target) {
+		if (!root) return nullptr;
 		if (root->GetVal() < target) root->SetRight(DeleteHelper(root->GetRight(), target));
 		if (root->GetVal() > target) root->SetLeft(DeleteHelper(root->GetLeft(), target));
 		if (root->GetVal() == target) {
@@ -155,7 +156,7 @@ private:
 				auto successor = FindSuccessor(root->GetRight());
 				root->SetVal(successor->GetVal());
 				successor->SetVal(target);
-				root->SetRight(DeleteHelper(successor, target));
+				root = DeleteHelper(root, target);
 			}
 		}
 		return root;
