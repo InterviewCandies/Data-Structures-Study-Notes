@@ -5,3 +5,4 @@
 - [x] [Linked list](./LinkedList)
 - [x] [Queue](./Queue)
 - [x] [Stack](./Stack)
+- [x] [BST](./BST)
