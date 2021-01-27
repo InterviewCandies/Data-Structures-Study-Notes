@@ -6,3 +6,4 @@
 - [x] [Queue](./Queue)
 - [x] [Stack](./Stack)
 - [x] [BST](./BST)
+- [x] [Union Find](./UnionFind)
